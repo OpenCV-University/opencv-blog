@@ -15,6 +15,7 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 | Blog Post                                                    | Code                                                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [Smart Document Scanning with Live OCR using OpenCV.js](https://opencv.org/blog/smart-document-scanning-with-live-ocr-using-opencv-js/) | [Code](https://www.dropbox.com/scl/fo/wbbng1j137zmy9sbyj2ya/AIsoKAuFqSRAHIQrSnt8ZGg?rlkey=o4anfr3vrqjjdbkz665miire8&st=8igpcm3d&dl=1) |
 | [OpenCV G-API: From Imperative to Declarative Pipelines](https://opencv.org/blog/opencv-g-api/) | [Code](https://www.dropbox.com/scl/fo/row70x23nt9i0de8m2cfs/AGwt591xArDni7J79_PFv2c?rlkey=lzdzxckrn781trsxrwki052rb&st=xvnepdb4&dl=1) |
 | [Guide to Underwater Image Enhancement Using OpenCV](https://opencv.org/blog/underwater-image-enhancement-using-opencv/) | [Code](https://www.dropbox.com/scl/fo/nf7rrl3k5lm9aq3lvurgn/ALehHEImzX40C2VpvAiFA2Y?rlkey=r6x3c3blwxk6achl4kd6owiec&st=jl457876&dl=1) |
 | [From Image to 3D: The Structure from Motion in OpenCV](https://opencv.org/blog/structure-from-motion-in-opencv/) | [Code](https://www.dropbox.com/scl/fo/nwtrsbujs3w1ts63zk6y3/AMfNg3D7eiZsKxjHUplLc40?rlkey=s8eh9unshf9k0cjxx4vqagqyk&st=u3fyiu0y&dl=1) |
