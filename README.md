@@ -15,6 +15,7 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 | Blog Post                                                    | Code                                                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [From Image Features to Visual Place Recognition: OpenCV Approach](https://opencv.org/blog/visual-place-recognition/) | [Code](https://www.dropbox.com/scl/fo/s2qn6o2bgem2tap7m1pts/APUgi1KJhTNbt1GIqV8rrak?rlkey=zatmfteakz7lh9g116jlhdx2o&st=yumy061q&dl=1) |
 | [Watershed Segmentation Using OpenCV](https://opencv.org/blog/watershed-segmentation-using-opencv/) | [Code](https://www.dropbox.com/scl/fo/vqfjtbbcqx6b3g1g0cgk4/AFACr8GFNti-dokqW_ehwoQ?rlkey=zmh3u0t0nu6vail5m8umjfeqy&st=yzacach8&dl=1) |
 | [Enhancing Images: Adaptive Shadow Correction Using OpenCV](https://opencv.org/blog/shadow-correction-using-opencv/) | [Code](https://www.dropbox.com/scl/fo/625mvq5iw5vigqffh984m/ALDrYDvMrwp_vRHCkxkMPsk?rlkey=uqxadz0lgivtm1qdias2ipiak&st=3pstf6c2&dl=1) |
 | [Smart Document Scanning with Live OCR using OpenCV.js](https://opencv.org/blog/smart-document-scanning-with-live-ocr-using-opencv-js/) | [Code](https://www.dropbox.com/scl/fo/wbbng1j137zmy9sbyj2ya/AIsoKAuFqSRAHIQrSnt8ZGg?rlkey=o4anfr3vrqjjdbkz665miire8&st=8igpcm3d&dl=1) |
