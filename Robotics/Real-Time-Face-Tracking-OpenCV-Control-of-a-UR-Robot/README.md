@@ -1,10 +1,10 @@
-# From Image Features to Visual Place Recognition: OpenCV Approach
+# Real-Time Face Tracking: OpenCV Control of a UR Robot
 
-This repository contains code related to the blog post [From Image Features to Visual Place Recognition: OpenCV Approach](https://opencv.org/blog/visual-place-recognition/)
+This repository contains code related to the blog post [Real-Time Face Tracking: OpenCV Control of a UR Robot](https://opencv.org/blog/real-time-face-tracking-opencv-control-of-a-ur-robot/)
 
-![OpenCV.VPR](https://opencv.org/wp-content/uploads/2026/01/1280-2.jpg)
+![OpenCV](https://opencv.org/wp-content/uploads/2026/02/Real-Time-Face-Tracking-OpenCV-Control-of-a-UR-Robot.gif)
 
-[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="Download Code" width="200">](https://www.dropbox.com/scl/fo/s2qn6o2bgem2tap7m1pts/APUgi1KJhTNbt1GIqV8rrak?rlkey=zatmfteakz7lh9g116jlhdx2o&st=yumy061q&dl=1)
+[<img src="https://learnopencv.com/wp-content/uploads/2022/07/download-button-e1657285155454.png" alt="Download Code" width="200">](https://www.dropbox.com/scl/fo/v1qxw4pohd4qads5kytvh/AJB7qoxrfPy22vdV2Rpn-IU?rlkey=z1yjiq9uhg9tfvw8x800t8ods&st=mc99skb8&dl=1)
 
 You can also download code using Git using the following commands.
 
@@ -12,7 +12,7 @@ You can also download code using Git using the following commands.
 git clone --depth=1 --filter=blob:none --sparse https://github.com/OpenCV-University/opencv-blog.git
 cd opencv-blog
 git sparse-checkout init --cone   
-git sparse-checkout set Classical-Computer-Vision/Visual-Place-Recognition-OpenCV-Approach
+git sparse-checkout set Robotics/Real-Time-Face-Tracking-OpenCV-Control-of-a-UR-Robot
 ```
 
 ## AI Courses by OpenCV
