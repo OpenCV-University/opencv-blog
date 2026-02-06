@@ -15,6 +15,7 @@ Want to become an expert in AI? [AI Courses by OpenCV](https://opencv.org/course
 
 | Blog Post                                                    | Code                                                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| [Real-Time Face Tracking: OpenCV Control of a UR Robot](https://opencv.org/blog/real-time-face-tracking-opencv-control-of-a-ur-robot/) | [Code](https://www.dropbox.com/scl/fo/v1qxw4pohd4qads5kytvh/AJB7qoxrfPy22vdV2Rpn-IU?rlkey=z1yjiq9uhg9tfvw8x800t8ods&st=mc99skb8&dl=1) |
 | [From Image Features to Visual Place Recognition: OpenCV Approach](https://opencv.org/blog/visual-place-recognition/) | [Code](https://www.dropbox.com/scl/fo/s2qn6o2bgem2tap7m1pts/APUgi1KJhTNbt1GIqV8rrak?rlkey=zatmfteakz7lh9g116jlhdx2o&st=yumy061q&dl=1) |
 | [Watershed Segmentation Using OpenCV](https://opencv.org/blog/watershed-segmentation-using-opencv/) | [Code](https://www.dropbox.com/scl/fo/vqfjtbbcqx6b3g1g0cgk4/AFACr8GFNti-dokqW_ehwoQ?rlkey=zmh3u0t0nu6vail5m8umjfeqy&st=yzacach8&dl=1) |
 | [Enhancing Images: Adaptive Shadow Correction Using OpenCV](https://opencv.org/blog/shadow-correction-using-opencv/) | [Code](https://www.dropbox.com/scl/fo/625mvq5iw5vigqffh984m/ALDrYDvMrwp_vRHCkxkMPsk?rlkey=uqxadz0lgivtm1qdias2ipiak&st=3pstf6c2&dl=1) |
